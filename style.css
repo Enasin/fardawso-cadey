@@ -1,0 +1,12 @@
+h1 {
+     color: rgb(64, 218, 8);
+     background-color: aqua;
+}
+
+img {
+     border-radius: 10px;
+     float: center;
+} 
+p {
+     text-align: left;
+}
